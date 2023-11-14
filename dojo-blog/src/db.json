@@ -1,0 +1,65 @@
+
+    {
+        "blogs": 
+        [
+        {
+            id: 1,
+            title: 'The Art of Coding',
+            body: 'Exploring the beauty and creativity behind writing code.',
+            author: 'coder123',
+          },
+          {
+            id: 2,
+            title: 'Discovering New Horizons',
+            body: 'A journey through uncharted territories and the lessons learned.',
+            author: 'Explorer456',
+          },
+          {
+            id: 3,
+            title: 'Cooking Adventures',
+            body: 'Delicious recipes and culinary tales from around the world.',
+            author: 'ChefMaster',
+          },
+          {
+            id: 4,
+            title: 'Innovation in Technology',
+            body: 'Exploring the latest breakthroughs and innovations in tech.',
+            author: 'coder123',
+          },
+          {
+            id: 5,
+            title: 'The Mindful Entrepreneur',
+            body: 'Balancing business success with mindfulness and well-being.',
+            author: 'MindfulCEO',
+          },
+          {
+            id: 6,
+            title: 'Nature Photography',
+            body: 'Capturing the beauty of nature through the lens of a camera.',
+            author: 'PhotoArtist',
+          },
+          {
+            id: 7,
+            title: 'Fitness and Wellness',
+            body: 'Tips, tricks, and personal stories on achieving a healthy lifestyle.',
+            author: 'FitLifeFanatic',
+          },
+          {
+            id: 8,
+            title: 'The Bookworm\'s Haven',
+            body: 'A journey through the fascinating world of literature and books.',
+            author: 'BookishReader',
+          },
+          {
+            id: 9,
+            title: 'Musical Inspirations',
+            body: 'Exploring the magic and inspiration behind various music genres.',
+            author: 'MelodyMaker',
+          },
+          {
+            id: 10,
+            title: 'The Gamer\'s Realm',
+            body: 'Reviews, strategies, and tales from the world of gaming.',
+            author: 'GameMasterX',
+          }
+    ]}
