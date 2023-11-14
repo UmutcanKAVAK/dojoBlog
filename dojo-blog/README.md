@@ -34,6 +34,10 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+5. Run 'npm run dev' to start the server for getting data back from db.json file.
+6. After step 5 everything should just be fine.
+7. You can see the blogs at http://localhost:3000/blogs]
+8.  You can see a single blog at http://localhost:3000/blogs/:id] with the id.
+9. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
 Feel free to explore and contribute to the development of this Dojo Blog project!
